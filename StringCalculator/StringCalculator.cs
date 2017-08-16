@@ -1,4 +1,4 @@
-﻿namespace StringCalculator
+﻿namespace StringCalculatorKata
 {
     public class StringCalculator
     {

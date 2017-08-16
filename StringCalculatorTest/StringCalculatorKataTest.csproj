@@ -54,9 +54,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\StringCalculator\StringCalculator.csproj">
+    <ProjectReference Include="..\StringCalculator\StringCalculatorKata.csproj">
       <Project>{bd7bde6f-9ca6-49a3-9fb4-8e5fb05e9b0e}</Project>
-      <Name>StringCalculator</Name>
+      <Name>StringCalculatorKata</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
